@@ -1,0 +1,41 @@
+---
+title: "Whack a MoG"
+output: html_document
+author: Iliyas Bektas, Olzhas Toleugazin
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+The main objective of this exercise is to design a simulation study in order to
+compare the performance of different model selection techniques. Yes, seems vague. For more information, please read this file [here](https://github.com/iliyasbektas/SDS_HW2/blob/main/hw-02%20-%20(20201218).pdf). 
+
+## Part 1.
+## Extend my handmade code to get the EM-fit of a generic mixture of k > 1 (instead of just 2) Gaussians.
+
+What is implied by 'my code' is a code in [this file]()
+```{r}
+
+```
+
+
+
+
+
+
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
